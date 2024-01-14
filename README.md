@@ -1,2 +1,8 @@
-# .github
-LIN 380 S24
+# Quantitative Text Analysis
+
+> Linguistics 380/ 680
+
+## Resources
+
+- ...
+
