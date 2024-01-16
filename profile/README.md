@@ -1,7 +1,3 @@
-## Quantitative Text Analysis
-
-> Linguistics 380/ 680
-
 ## Resources
 
 - [Homepage](https://lin-380-s24.github.io/)
