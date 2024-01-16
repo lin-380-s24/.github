@@ -5,4 +5,4 @@
 - [Textbook](https://qtalr.github.io/book/)
 - [Textbook R package](https://qtalr.github.io/qtalrkit/)
 - [Recipes](https://qtalr.github.io/qtalrkit/articles/)
-- [Labs](https://github.com/lin-380-s24?q=lab-)
+- [Labs](https://github.com/lin-380-s24?q=lab-&type=all&language=&sort=name)
